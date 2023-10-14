@@ -22,3 +22,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw0701)](https://solved.ac/kmw0701/)
+
+
+https://www.notion.so/minutaurus/8e2bfb1ba97f425886801bbbaf2b9f6e
